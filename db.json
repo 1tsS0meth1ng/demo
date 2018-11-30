@@ -1,14 +1,27 @@
 {
-  "posts": [
+  "animal": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
+  "coordinate": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "flightpath": {
+    "name": "typicode"
+  },
+  "reserve": {
+    "name": "typicode"
+  },
+  "team": {
+    "name": "typicode"
+  },
+  "user": {
+    "name": "typicode"
+  },
+  "usergroup": {
     "name": "typicode"
   }
+ 
 }
