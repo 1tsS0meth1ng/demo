@@ -1,8 +1,20 @@
 {
   "animal": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+        "id": "0",
+        "dateDarted": 1543827624,
+        "drugs": "pleny",
+        "locationDarted": "",
+        "name": "Steven",
+        "photo": "",
+        "photoURL": "",
+        "reserve": "",
+        "roughAge": 20,
+		"sex": "male",
+        "shoulderHeight": 6.6,
+        "weight": 5,
+        "type": "elephant"
+    }
   ],
   "coordinate": [
     { "id": 1, "body": "some comment", "postId": 1 },
