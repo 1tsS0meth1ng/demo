@@ -2,6 +2,8 @@
   "animal": [
     {
         "id": "0",
+		"dateCreated": 1543827624,
+		"dateModified": 1543827624,
         "dateDarted": 1543827624,
         "drugs": "pleny",
         "locationDarted": "",
