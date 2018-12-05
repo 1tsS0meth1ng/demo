@@ -33,7 +33,7 @@
         "shoulderHeight": 6.6,
         "weight": 5,
         "type": "elephant"
-    },
+    }
   ],
   "coordinate": [
     { "id": 1, "body": "some comment", "postId": 1 },
