@@ -36,8 +36,20 @@
     }
   ],
   "coordinate": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+	{
+		"id": "0",
+		"dateCreated": 1543827624,
+		"dateModified": 1543827624,
+		"animalId": "1",
+		"elephantId": "1",
+		"elephantName": "Bob",
+		"imageURL": "ehhehehe",
+		"latitude": 1.00000,
+		"longitude": 2.0000,
+		"loggedDateTime": 1543827624,
+		"timeStamp": 1543827624
+	}
+	
   ],
   "flightpath": {
     "name": "typicode"
