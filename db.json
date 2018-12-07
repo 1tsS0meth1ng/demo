@@ -44,8 +44,21 @@
 		"elephantId": "1",
 		"elephantName": "Bob",
 		"imageURL": "ehhehehe",
-		"latitude": 1.00000,
-		"longitude": 2.0000,
+		"latitude": -25.779809,
+		"longitude": 28.277529,
+		"loggedDateTime": 1543827624,
+		"timeStamp": 1543827624
+	},
+	  {
+		"id": "0",
+		"dateCreated": 1543827624,
+		"dateModified": 1543827624,
+		"animalId": "1",
+		"elephantId": "1",
+		"elephantName": "Bob",
+		"imageURL": "ehhehehe",
+		"latitude": -25.882437,
+		"longitude": 28.232785,
 		"loggedDateTime": 1543827624,
 		"timeStamp": 1543827624
 	}
