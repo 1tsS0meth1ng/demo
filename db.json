@@ -50,15 +50,28 @@
 		"timeStamp": 1543827624
 	},
 	  {
-		"id": "0",
+		"id": "1",
 		"dateCreated": 1543827624,
 		"dateModified": 1543827624,
 		"animalId": "1",
 		"elephantId": "1",
-		"elephantName": "Bob",
+		"elephantName": "Steven",
 		"imageURL": "ehhehehe",
 		"latitude": -25.882437,
 		"longitude": 28.232785,
+		"loggedDateTime": 1543827624,
+		"timeStamp": 1543827624
+	},
+	{
+		"id": "2",
+		"dateCreated": 1543827624,
+		"dateModified": 1543827624,
+		"animalId": "2",
+		"elephantId": "2",
+		"elephantName": "Larry",
+		"imageURL": "ehhehehe",
+		"latitude": -25.844794,
+		"longitude": 28.244694,
 		"loggedDateTime": 1543827624,
 		"timeStamp": 1543827624
 	}
