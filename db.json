@@ -95,19 +95,43 @@
 	
   ],
   "flightpath": [
-	  {
-	     "id": "0",
-	     "dateCreated": 1543827624,
-	     "dateModified": 1543827624,
-	     "reserver": "Pilansburg"
-	  }
   ],
   "reserve":[
 	  {
 	     "id": "0",
 	     "dateCreated": 1543827624,
 	     "dateModified": 1543827624,
+	     "reserver": "RietVlei"
+	  },
+	  {
+	     "id": "1",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "reserver": "Dinokeng"
+	  },
+	  {
+	     "id": "2",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
 	     "reserver": "Pilansburg"
+	  },
+	  {
+	     "id": "3",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "reserver": "Random reserve"
+	  },
+	  {
+	     "id": "4",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "reserver": "Another reserve"
+	  },
+	  {
+	     "id": "5",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "reserver": "That reserve"
 	  }
   ],
   "user": {
