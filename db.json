@@ -94,9 +94,14 @@
 	}
 	
   ],
-  "flightpath": {
-    "name": "typicode"
-  },
+  "flightpath": [
+	  {
+	     "id": "0",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "reserver": "Pilansburg"
+	  }
+  ],
   "reserve": {
     "name": "typicode"
   },
