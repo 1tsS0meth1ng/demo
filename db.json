@@ -156,6 +156,79 @@
 	     "reserver": "That reserve"
 	  }
   ],
-  "user": []
+  "user": [
+	  {
+	     "id": "0",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "James Motsami",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "1",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Reotshepile Mason",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "2",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Brenden Bath",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "3",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Percy Tau",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "4",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Tchala Bosman",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "5",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Riley Mokgothu",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "6",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Kagiso Dandashe",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  },
+	  {
+	     "id": "7",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "username": "Christian Wheeler",
+	     "location": "",
+	     "password": "",
+	     "roles": "",	  
+	  }
+  ]
  
 }
