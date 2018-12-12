@@ -95,6 +95,28 @@
 	
   ],
   "flightpath": [
+	  {
+	     "id": "0",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "name": "RietVlei",
+	     "points": ""
+	  },
+	  {
+	     "id": "1",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "name": "Dinokeng",
+	     "points": ""
+	  },
+	  {
+	     "id": "2",
+	     "dateCreated": 1543827624,
+	     "dateModified": 1543827624,
+	     "name": "Pilansburg",
+	     "points": ""
+	  }
+	  
   ],
   "reserve":[
 	  {
